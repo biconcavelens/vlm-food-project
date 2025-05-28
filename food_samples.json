@@ -1,0 +1,300 @@
+[
+    {
+        "actual_name": "baked pasta with cheese",
+        "image_paths": [
+            "images/pasta/pasta1.png",
+            "images/pasta/pasta2.png",
+            "images/pasta/pasta3.png",
+            "images/pasta/pasta4.png",
+            "images/pasta/pasta5.png",
+            "images/pasta/pasta6.png",
+            "images/pasta/pasta7.png",
+            "images/pasta/pasta8.png",
+            "images/pasta/pasta9.png",
+            "images/pasta/pasta10.png"
+        ],
+        "vague_title": "cheesy pasta thing",
+        "full_instructions": [
+            "Boil 1 pound pasta in salted water until al dente, about 8-10 minutes",
+            "Meanwhile, preheat oven to 350\u00b0F",
+            "In a large bowl, mix cooked pasta with 2 cups marinara sauce and 1 cup mozzarella",
+            "Transfer to a 9x13 baking dish",
+            "Top with remaining 1 cup mozzarella cheese",
+            "Bake uncovered for 25 minutes until cheese is bubbly and golden"
+        ],
+        "concise_steps": [
+            "Cook pasta and mix with marinara sauce and cheese",
+            "Layer in baking dish with extra cheese on top",
+            "Bake at 350\u00b0F until bubbly"
+        ]
+    },
+    {
+        "actual_name": "homemade pizza",
+        "image_paths": [
+            "images/pizza/pizza1.png",
+            "images/pizza/pizza2.png",
+            "images/pizza/pizza3.png",
+            "images/pizza/pizza4.png",
+            "images/pizza/pizza5.png",
+            "images/pizza/pizza6.png",
+            "images/pizza/pizza7.png",
+            "images/pizza/pizza8.png",
+            "images/pizza/pizza9.png",
+            "images/pizza/pizza10.png"
+        ],
+        "vague_title": "italian pizza",
+        "full_instructions": [
+            "In a large bowl, mix 2 cups flour, 1 tsp salt, 1 tsp sugar, 1 tsp dry yeast, \u00be cup warm water, and 1 tbsp olive oil",
+            "Knead the dough until smooth, then let rise for 1 hour until doubled",
+            "Preheat oven to 475\u00b0F and prepare a pizza stone or baking tray",
+            "Roll out the dough into a 12-inch circle on a floured surface",
+            "Spread \u00bd cup pizza sauce evenly on the dough",
+            "Top with 1\u00bd cups shredded mozzarella and any toppings of your choice",
+            "Bake for 10\u201312 minutes until crust is golden and cheese is bubbling"
+        ],
+        "concise_steps": [
+            "Make and rise pizza dough",
+            "Roll out dough and add sauce, cheese, and toppings",
+            "Bake at 475\u00b0F until crust is golden and cheese bubbles"
+        ]
+    },
+    {
+        "actual_name": "chole bature",
+        "image_paths": [
+            "images/chole_bature/chole_bature1.png",
+            "images/chole_bature/chole_bature2.png",
+            "images/chole_bature/chole_bature3.png",
+            "images/chole_bature/chole_bature4.png",
+            "images/chole_bature/chole_bature5.png",
+            "images/chole_bature/chole_bature6.png",
+            "images/chole_bature/chole_bature7.png",
+            "images/chole_bature/chole_bature8.png",
+            "images/chole_bature/chole_bature9.png",
+            "images/chole_bature/chole_bature10.png"
+        ],
+        "vague_title": "spicy chickpeas with fluffy balloons",
+        "full_instructions": [
+            "Soak 1 cup dried chickpeas overnight, then pressure cook with salt until soft",
+            "In a pan, heat oil and saut\u00e9 chopped onions, ginger, and garlic until golden",
+            "Add chopped tomatoes and cook until soft, then stir in spices: cumin, coriander, turmeric, garam masala, and chili powder",
+            "Mix in the cooked chickpeas and simmer for 15\u201320 minutes, mashing some for thickness",
+            "For bature: mix 2 cups all-purpose flour, 2 tbsp yogurt, \u00bd tsp baking powder, and water to form a soft dough",
+            "Rest dough for 1 hour, then divide and roll into circles",
+            "Deep fry each batura in hot oil until puffed and golden"
+        ],
+        "concise_steps": [
+            "Cook soaked chickpeas with spiced onion-tomato masala",
+            "Make and rest dough for bature",
+            "Roll and deep-fry bature until puffed"
+        ]
+    },
+    {
+        "actual_name": "meat tacos",
+        "image_paths": [
+            "images/tacos/tacos1.png",
+            "images/tacos/tacos2.png",
+            "images/tacos/tacos3.png",
+            "images/tacos/tacos4.png",
+            "images/tacos/tacos5.png",
+            "images/tacos/tacos6.png",
+            "images/tacos/tacos7.png",
+            "images/tacos/tacos8.png",
+            "images/tacos/tacos9.png",
+            "images/tacos/tacos10.png"
+        ],
+        "vague_title": "mexican folded crunchy flavor holders",
+        "full_instructions": [
+            "In a skillet, cook 1 lb ground meat over medium heat until browned",
+            "Drain excess fat, then add 1 packet taco seasoning and \u00bd cup water",
+            "Simmer for 5\u20137 minutes until thickened",
+            "Warm taco shells in the oven at 350\u00b0F for 5 minutes or until crisp",
+            "Spoon meat mixture into taco shells",
+            "Top with shredded lettuce, diced tomatoes, cheese, and sour cream as desired"
+        ],
+        "concise_steps": [
+            "Cook meat with taco seasoning",
+            "Warm taco shells",
+            "Fill with meat and toppings"
+        ]
+    },
+    {
+        "actual_name": "classic cheeseburger",
+        "image_paths": [
+            "images/burger/burger1.png",
+            "images/burger/burger2.png",
+            "images/burger/burger3.png",
+            "images/burger/burger4.png",
+            "images/burger/burger5.png",
+            "images/burger/burger6.png",
+            "images/burger/burger7.png",
+            "images/burger/burger8.png",
+            "images/burger/burger9.png",
+            "images/burger/burger10.png"
+        ],
+        "vague_title": "stacked meaty sandwich thing",
+        "full_instructions": [
+            "In a bowl, mix 1 lb ground beef with salt and pepper",
+            "Form into 4 equal patties",
+            "Cook patties on a hot skillet or grill for 3\u20134 minutes per side, or until desired doneness",
+            "Toast burger buns lightly on the skillet or grill",
+            "Place cooked patties on the bottom buns",
+            "Add toppings like lettuce, tomato, onion, cheese, pickles, and sauces",
+            "Close with top buns and serve hot"
+        ],
+        "concise_steps": [
+            "Shape and cook beef patties",
+            "Toast buns and assemble with toppings",
+            "Serve warm"
+        ]
+    },
+    {
+        "actual_name": "sushi rolls",
+        "image_paths": [
+            "images/sushi/sushi1.png",
+            "images/sushi/sushi2.png",
+            "images/sushi/sushi3.png",
+            "images/sushi/sushi4.png",
+            "images/sushi/sushi5.png",
+            "images/sushi/sushi6.png",
+            "images/sushi/sushi7.png",
+            "images/sushi/sushi8.png",
+            "images/sushi/sushi9.png",
+            "images/sushi/sushi10.png"
+        ],
+        "vague_title": "rolled rice and fish",
+        "full_instructions": [
+            "Cook 2 cups sushi rice according to package instructions, then let cool",
+            "Mix rice vinegar, sugar, and salt, then fold into cooled rice",
+            "Place a bamboo mat on a flat surface and lay a sheet of nori on it",
+            "Spread a thin layer of sushi rice over the nori, leaving 1 inch at the top edge",
+            "Add fillings like sliced cucumber, avocado, and raw fish along the bottom edge",
+            "Using the mat, roll the sushi tightly away from you, sealing the edge with a little water",
+            "Slice into bite-sized pieces with a sharp knife"
+        ],
+        "concise_steps": [
+            "Cook and season sushi rice",
+            "Spread rice on nori, add fillings, and roll tightly",
+            "Slice into pieces"
+        ]
+    },
+    {
+        "actual_name": "mixed vegetable salad",
+        "image_paths": [
+            "images/salad/salad1.png",
+            "images/salad/salad2.png",
+            "images/salad/salad3.png",
+            "images/salad/salad4.png",
+            "images/salad/salad5.png",
+            "images/salad/salad6.png",
+            "images/salad/salad7.png",
+            "images/salad/salad8.png",
+            "images/salad/salad9.png",
+            "images/salad/salad10.png"
+        ],
+        "vague_title": "fresh crunchy vegetable mix",
+        "full_instructions": [
+            "Wash and chop 2 cups mixed greens (lettuce, spinach, arugula)",
+            "Dice 1 cucumber, 1 bell pepper, and 1 tomato",
+            "Slice \u00bd red onion thinly",
+            "In a large bowl, combine all vegetables",
+            "Drizzle with olive oil and balsamic vinegar",
+            "Season with salt and pepper to taste",
+            "Toss gently to combine and serve immediately"
+        ],
+        "concise_steps": [
+            "Chop mixed greens and vegetables",
+            "Combine in a bowl with dressing",
+            "Toss and serve"
+        ]
+    },
+    {
+        "actual_name": "chicken curry",
+        "image_paths": [
+            "images/curry/curry1.png",
+            "images/curry/curry2.png",
+            "images/curry/curry3.png",
+            "images/curry/curry4.png",
+            "images/curry/curry5.png",
+            "images/curry/curry6.png",
+            "images/curry/curry7.png",
+            "images/curry/curry8.png",
+            "images/curry/curry9.png",
+            "images/curry/curry10.png"
+        ],
+        "vague_title": "spicy sauce with meat and veggies",
+        "full_instructions": [
+            "In a large pot, heat 2 tbsp oil over medium heat",
+            "Add 1 chopped onion and saut\u00e9 until golden brown",
+            "Stir in 2 cloves minced garlic and 1 inch grated ginger, cooking for 1 minute",
+            "Add 1 lb diced chicken or beef and cook until browned",
+            "Mix in 2 tbsp curry powder, 1 tsp cumin, and salt to taste",
+            "Pour in 1 can coconut milk and simmer for 20 minutes",
+            "Add 2 cups chopped vegetables (potatoes, carrots, peas) and cook until tender",
+            "Serve hot with rice or naan"
+        ],
+        "concise_steps": [
+            "Saut\u00e9 onion, garlic, and ginger in oil",
+            "Brown meat, add spices and coconut milk",
+            "Simmer with vegetables until tender, serve with rice or naan"
+        ]
+    },
+    {
+        "actual_name": "cheese omelette",
+        "image_paths": [
+            "images/omelette/omelette1.png",
+            "images/omelette/omelette2.png",
+            "images/omelette/omelette3.png",
+            "images/omelette/omelette4.png",
+            "images/omelette/omelette5.png",
+            "images/omelette/omelette6.png",
+            "images/omelette/omelette7.png",
+            "images/omelette/omelette8.png",
+            "images/omelette/omelette9.png",
+            "images/omelette/omelette10.png"
+        ],
+        "vague_title": "fluffy egg pancake with fillings",
+        "full_instructions": [
+            "In a bowl, whisk 4 eggs with salt and pepper",
+            "Heat 1 tbsp butter in a non-stick skillet over medium heat",
+            "Pour in the eggs and cook until edges start to set, about 2 minutes",
+            "Add fillings like cheese, diced vegetables, or cooked meat on one half of the omelette",
+            "Fold the other half over the fillings and cook for another minute until cheese melts",
+            "Slide onto a plate and serve hot"
+        ],
+        "concise_steps": [
+            "Whisk eggs and cook in butter until edges set",
+            "Add fillings, fold, and cook until cheese melts",
+            "Serve hot"
+        ]
+    },
+    {
+        "actual_name": "vegetable soup",
+        "image_paths": [
+            "images/soup/soup1.png",
+            "images/soup/soup2.png",
+            "images/soup/soup3.png",
+            "images/soup/soup4.png",
+            "images/soup/soup5.png",
+            "images/soup/soup6.png",
+            "images/soup/soup7.png",
+            "images/soup/soup8.png",
+            "images/soup/soup9.png",
+            "images/soup/soup10.png"
+        ],
+        "vague_title": "warm liquid comfort food",
+        "full_instructions": [
+            "In a large pot, heat 2 tbsp oil over medium heat",
+            "Add 1 chopped onion and saut\u00e9 until translucent",
+            "Stir in 2 cloves minced garlic and cook for 1 minute",
+            "Add 4 cups vegetable or chicken broth and bring to a boil",
+            "Add 2 cups diced vegetables (carrots, potatoes, celery) and simmer for 15 minutes",
+            "Season with salt, pepper, and herbs like thyme or parsley",
+            "Serve hot with bread"
+        ],
+        "concise_steps": [
+            "Saut\u00e9 onion and garlic in oil",
+            "Add broth and vegetables, simmer until tender",
+            "Season and serve hot"
+        ]
+    }
+]
