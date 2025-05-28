@@ -28,16 +28,16 @@ def evaluate_all_test_images():
 
     # Dictionary mapping food items to their vague titles
     vague_titles = {
-        "pasta": "indian food",
-        "curry": "spicy sauce with meat and veggies",
-        "pizza": "italian pizza",
         "burger": "stacked meaty sandwich thing",
-        "tacos": "mexican folded crunchy flavor holders",
-        "soup": "warm liquid comfort food",
-        "salad": "fresh crunchy vegetable mix",
-        "sushi": "rolled rice and fish",
+        "chole_bature": "spicy chickpeas with fluffy balloons",
+        "curry": "spicy sauce with meat and veggies",
         "omelette": "fluffy egg pancake with fillings",
-        "chole_bature": "spicy chickpeas with fluffy balloons"
+        "pasta": "cheesy pasta with sauce",
+        "pizza": "italian pizza",
+        "salad": "fresh crunchy vegetable mix",
+        "soup": "warm liquid comfort food",
+        "sushi": "rolled rice and fish",
+        "tacos": "mexican folded crunchy flavor holders"
     }
 
     for test_image in sorted(test_images):
